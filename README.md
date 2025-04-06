@@ -10,19 +10,18 @@ Biagram model output
 
 Output of 10M parameter model
 ```
-10.788929 M parameters step 0: train
-loss
-4.2846, val loss 4.2820
-step
-500: train
-loss 1.8935,
-val loss 2.0082
-step
-1000: train loss
-1.5323,
-val
-loss 1.7204
-step 1500: train loss 1.3901, val loss 1.6002 step 2000: train loss 1.3043, val loss 1.5434 step 2500: train loss 1.2495, val loss 1.5220 step 3000: train loss 1.2001, val loss 1.4974 step 3500: train loss 1.1578, val loss 1.4798 step 4000: train loss 1.1200, val loss 1.4778 step 4500: train loss 1.0836, val loss 1.4777
+10.788929 M parameters 
+step 0: train loss 4.2846, val loss 4.2820 
+step 500: train loss 1.8935, val loss 2.0082
+step 1000: train loss 1.5323, val loss 1.7204
+step 1500: train loss 1.3901, val loss 1.6002 
+step 2000: train loss 1.3043, val loss 1.5434 
+step 2500: train loss 1.2495, val loss 1.5220 
+step 3000: train loss 1.2001, val loss 1.4974 
+step 3500: train loss 1.1578, val loss 1.4798 
+step 4000: train loss 1.1200, val loss 1.4778 
+step 4500: train loss 1.0836, val loss 1.4777
+
 Thy wrong davour sail, i' the commons:
 Come that is no office I to be gentle climary, And am thurns there, I'll even to fall thee To lose you.
 FLORIZEL:
